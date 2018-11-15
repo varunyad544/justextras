@@ -15,7 +15,6 @@ def showanswer():
         if word in string:
             count+=1
     Label(root,text='Url:{} \ncontains {} occurrences of word {}'.format(url,count,word)).grid(row=5,column=1)
-    print('Url:{} \ncontains {} occurrences of word {}'.format(url,count,word))
 
 root =Tk()
 root.title('No. of words in a website')
