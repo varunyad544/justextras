@@ -1,0 +1,8 @@
+Python project for 5th semester
+Varun Yadav
+16csu409
+
+Title: Finding frequency of a word or phrase in different web site
+
+Introduction: The program is to make a python script that can count the number of times a word is repeated in a website.
+The tools used in this project are tkinter and BS4
